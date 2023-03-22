@@ -42,8 +42,6 @@ Steps of project:
 * Lime with XGB Classifier
 * Conclusion
 
-
- The data are highly imbalanced, so I couldn't use Accuracy or ROC_AUC metrics. The metric I chose to predict churn was Recall because it was important to reduce False Negatives. When training the model, I tried to find the solution with the highest Recall, the second important metric was Precision. The Model is XGB Classifier with 'scale_pos_weight' =3.9 was better than XGB Classifier with Smote techniques. 
  
  The final prediction consists of 0 and 1. 0 means the person is not exited and 1 means the person is exited.
  
