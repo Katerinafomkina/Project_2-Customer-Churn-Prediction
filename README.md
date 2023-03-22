@@ -9,7 +9,7 @@ The project's objectives are to analyze the data, offer clarifications, and crea
 
 
 #### <b> Objectives</b>
-I will explore the data and try to answer some questions like:
+The following questions were answered:
 * What's the % of Churn Customers and customers that keep in with the active services?
 * Is there any patterns in Churn Customers based on the gender?
 * Is there any patterns/preference in Churn Customers based on the type of service provided?
