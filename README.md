@@ -41,6 +41,8 @@ Steps of project:
 
  The data are highly imbalanced, so I couldn't use Accuracy or ROC_AUC metrics. The metric I chose to predict churn was Recall because it was important to reduce False Negatives. When training the model, I tried to find the solution with the highest Recall, the second important metric was Precision. The Model is XGB Classifier with 'scale_pos_weight' =3.9 was better than XGB Classifier with Smote techniques. 
  
+ The final prediction consists of 0 and 1. 0 means the person is not exited and 1 means the person is exited.
+ 
  <b> Best XGB Classifier has following scores: </b>
 
 
@@ -98,3 +100,10 @@ Steps of project:
     <th>3000</th>
   </tr>
 </table>
+
+<p> However, in as much as the model has a high Recall, it still misses those who end up churning. This could be improved by providing retraining the model with more data over time. It is also important to impove Precision score, because right now model works as random for False Positives.</p>
+
+<h1> Conclusion </h1>
+<p> Customer churn is definitely bad to a firm ’s profitability. Various strategies can be implemented to eliminate customer churn. The best way to avoid customer churn is for a company to truly know its customers. This includes identifying customers who are at risk of churning and working to improve their satisfaction. Improving customer service is, of course, at the top of the priority for tackling this issue. Building customer loyalty through relevant experiences and specialized service is another strategy to reduce customer churn. Some firms survey customers who have already churned to understand their reasons for leaving in order to adopt a proactive approach to avoiding future customer churn.</p>
+
+
