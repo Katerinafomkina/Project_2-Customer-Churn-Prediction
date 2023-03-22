@@ -1,7 +1,11 @@
 # Project_2-Customer-Churn-Prediction. Classification Problem
 Data from https://www.kaggle.com/datasets/avhikj/churn-predictions-personal
 
-Churn Prediction Model is a predictive model that calculates, on an individual customer basis, the likelihood (or susceptibility) that a customer will stop doing business with the company. It gives you an indication, for each customer at any given time, of how high the risk is that you will lose them in the future.
+A common issue for businesses across many industries is customer churn. If you want to grow as a company, you have to invest in acquiring new clients. Every time a customer leaves, a sizable investment is lost. Both time and effort need to be channeled into replacing them. Being able to predict when a client is likely to leave and offer them incentives to stay, can offer huge savings to a business.
+Understanding what keeps customers engaged is therefore very important information because it can help you create retention strategies and implement operational procedures meant to prevent customers from leaving.
+
+The project's objectives are to analyze the data, offer clarifications, and create a powerful predictive model. The accuracy of the model is critical to the success of any proactive retention efforts. That is why, for this project, I chose the recall metric. Reducing the number of false negatives is crucial.
+
 
 
 #### <b> Objectives</b>
