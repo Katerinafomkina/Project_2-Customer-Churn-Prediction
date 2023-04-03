@@ -41,6 +41,7 @@ Steps of project:
   ** LGBM Classifier with selected features
 * Lime with XGB Classifier
 * Conclusion
+* Addition. Customer Segmentation. Examine Kmeans Clustering vs Spectral Clustering vs Agglomerative Clustering. Built new XGB model based on customer segmentation.
 
  
  The final prediction consists of 0 and 1. 0 means the person is not exited and 1 means the person is exited.
