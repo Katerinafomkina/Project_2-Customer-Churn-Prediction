@@ -1,4 +1,6 @@
 # Project_2-Customer-Churn-Prediction. Classification Problem
+
+<p> Analyze and Predict customers who can be churned...</p>
 Data from https://www.kaggle.com/datasets/avhikj/churn-predictions-personal
 
 A common issue for businesses across many industries is customer churn. If you want to grow as a company, you have to invest in acquiring new clients. Every time a customer leaves, a sizable investment is lost. Both time and effort need to be channeled into replacing them. Being able to predict when a client is likely to leave and offer them incentives to stay, can offer huge savings to a business.
